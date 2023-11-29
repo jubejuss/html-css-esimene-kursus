@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap');
+
+.reset {
+    margin: 0;
+}
+h1, h2, h3, .menu{
+    font-family: 'jolly lodger';
+}
+header {
+    background-color: #EEBBD4;
+    padding: 1rem;
+}
+.logo {
+    align-items: center;
+}
+.logo img {
+    height: 6rem;
+}
+.flex {
+    display: flex;
+}
+header ul {
+    list-style-type: none;
+    font-size: 2rem;
+}
+header li {
+    padding: 1rem;
+}
